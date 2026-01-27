@@ -53,8 +53,8 @@ sales-retail-dwh/
 This project was built as part of a learning initiative based on the comprehensive tutorial by Data with Baraa. It serves as a practical implementation of Data Warehouse concepts.
 
 Original Tutorial: Build a Data Warehouse from Scratch | SQL Server Data Warehouse Project
-**Video Tutorial** [Watch Here](https://youtu.be/9GVqKuTVANE)
-**Instructor** [Data with Baraa](https://www.youtube.com/@DataWithBaraa)
-Special thanks to the author for the in-depth explanation of ETL pipelines, Medallion Architecture, and SQL Server implementation.
+* **Video Tutorial** [Watch Here](https://youtu.be/9GVqKuTVANE)
+* **Instructor** [Data with Baraa](https://www.youtube.com/@DataWithBaraa)
+* Special thanks to the author for the in-depth explanation of ETL pipelines, Medallion Architecture, and SQL Server implementation.
 
 Created by [fatihdzaki01] - 2026
