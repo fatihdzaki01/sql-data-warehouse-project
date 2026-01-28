@@ -36,18 +36,11 @@ The ETL (Extract, Transform, Load) pipeline is implemented via **T-SQL Stored Pr
 * **Tools:** SQL Server Management Studio (SSMS)
 * **Modeling:** Star Schema (Dimensional Modeling)
 
-## 📂 Project Structure
-```text
-sales-retail-dwh/
-├── 📁 datasets/          # Raw CSV files (Source Data: CRM & ERP)
-├── 📁 scripts/
-│   ├── 01_init_database.sql      # Database creation
-│   ├── 02_bronze_layer.sql       # Bronze schemas & stored procedures
-│   ├── 03_silver_layer.sql       # Silver schemas & stored procedures
-│   └── 04_gold_layer.sql         # Gold schemas & stored procedures
-├── 📁 docs/              # ER Diagrams & Documentation
-└── README.md
-```
+## Entity Relationship Diagram
+
+![ERD](image/erd-crm-silver-layer-erd.drawio.png)
+
+## Data Flow
 
 ## Credits & Acknowledgements
 This project was built as part of a learning initiative based on the comprehensive tutorial by Data with Baraa. It serves as a practical implementation of Data Warehouse concepts.
