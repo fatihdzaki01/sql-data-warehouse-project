@@ -41,7 +41,6 @@ The ETL (Extract, Transform, Load) pipeline is implemented via **T-SQL Stored Pr
 ![ERD](image/erd-crm-silver-layer-erd.drawio.png)
 
 ## Data Flow
-![ERD](image/erd-crm-silver-layer-data flow.drawio.png)
 
 ## Credits & Acknowledgements
 This project was built as part of a learning initiative based on the comprehensive tutorial by Data with Baraa. It serves as a practical implementation of Data Warehouse concepts.
